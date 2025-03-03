@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 20.559950873992044
+    },
+    {
+      "name": "switch",
+      "targetTime": 32.057296328151985
+    },
+    {
+      "name": "compare",
+      "targetTime": 43.83188466449476
+    },
+    {
+      "name": "corrupted",
+      "targetTime": 46.8968835052213
+    },
+    {
+      "name": "next",
+      "targetTime": 72.77532692608017
+    }
+  ],
+  "seed": 2835529289
+}

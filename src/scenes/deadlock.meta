@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0.5787219127207704
+    },
+    {
+      "name": "graph1",
+      "targetTime": 42.2371900009161
+    },
+    {
+      "name": "t1rA",
+      "targetTime": 44.6684504341346
+    },
+    {
+      "name": "t1rB",
+      "targetTime": 46.56761173027002
+    },
+    {
+      "name": "t2rB",
+      "targetTime": 48.734636243990884
+    },
+    {
+      "name": "t2rA",
+      "targetTime": 50.07821065730781
+    },
+    {
+      "name": "complex",
+      "targetTime": 78.16922742996377
+    },
+    {
+      "name": "remove",
+      "targetTime": 104.87011998456
+    },
+    {
+      "name": "highlight",
+      "targetTime": 110.11880045349909
+    },
+    {
+      "name": "next",
+      "targetTime": 116.58531337211934
+    }
+  ],
+  "seed": 1148570785
+}

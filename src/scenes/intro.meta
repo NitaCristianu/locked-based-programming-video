@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "appear",
+      "targetTime": 3.5198579993658536
+    },
+    {
+      "name": "transform",
+      "targetTime": 5.794162203210604
+    },
+    {
+      "name": "when",
+      "targetTime": 14.025954496354034
+    },
+    {
+      "name": "how",
+      "targetTime": 14.898956763076555
+    },
+    {
+      "name": "alternatives",
+      "targetTime": 16.545938733248306
+    },
+    {
+      "name": "next",
+      "targetTime": 28.05642568822168
+    }
+  ],
+  "seed": 1333874189
+}

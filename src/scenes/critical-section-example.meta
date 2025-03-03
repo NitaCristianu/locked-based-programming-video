@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "use it",
+      "targetTime": 5.516123491509184
+    },
+    {
+      "name": "uninit",
+      "targetTime": 10.300079404144647
+    },
+    {
+      "name": "enter",
+      "targetTime": 15.878566742005406
+    },
+    {
+      "name": "next",
+      "targetTime": 18.999475236442457
+    }
+  ],
+  "seed": 2654663610
+}

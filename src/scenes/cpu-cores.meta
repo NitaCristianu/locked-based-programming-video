@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "highlight",
+      "targetTime": 1.6286723596024004
+    },
+    {
+      "name": "appear cpu cores",
+      "targetTime": 6.3320253916467895
+    },
+    {
+      "name": "1/24",
+      "targetTime": 16.330745725149
+    },
+    {
+      "name": "1/4",
+      "targetTime": 17.51525116886432
+    },
+    {
+      "name": "next",
+      "targetTime": 19.145908328081152
+    }
+  ],
+  "seed": 892988167
+}

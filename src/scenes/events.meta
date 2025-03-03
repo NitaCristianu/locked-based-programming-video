@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 2.9993954140592196
+    },
+    {
+      "name": "api",
+      "targetTime": 9.162055621705367
+    },
+    {
+      "name": "code",
+      "targetTime": 16.595064758054185
+    },
+    {
+      "name": "execution",
+      "targetTime": 35.34542726849287
+    },
+    {
+      "name": "func1",
+      "targetTime": 43.18372830751253
+    },
+    {
+      "name": "func2",
+      "targetTime": 48.079561388093
+    },
+    {
+      "name": "next",
+      "targetTime": 54.57764353432772
+    }
+  ],
+  "seed": 4162232539
+}
